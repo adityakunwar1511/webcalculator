@@ -1,0 +1,13 @@
+.container{
+    text-align: center;margin-top: 24px;background-color: aquamarine;border-radius:2000px ;width:auto;border-color: blueviolet;
+    border-width:auto;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px; border-radius: 15px;
+}
+button{
+    font-size: 24px;background: goldenrod;width: 60px;height: 50px;border-radius: 10px;
+}
